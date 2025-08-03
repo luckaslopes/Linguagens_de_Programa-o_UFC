@@ -1,1 +1,1 @@
-# Linguagens_de_Programa-o_UFC
+# Linguagens_de_Programacao_UFC
