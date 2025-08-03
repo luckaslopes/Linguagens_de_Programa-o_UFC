@@ -8,12 +8,12 @@ Em cada etapa, foram desenvolvidos pequenos programas, reflexões comparativas e
 
 ├── README.md                             → Visão geral do projeto
 
-├── 01-introducao/                        → Linha do tempo da evolução das linguagens\n
-|
+├── 01-introducao/                        → Linha do tempo da evolução das linguagens
+
 ├── 02-ambientes/                         → Diagrama e explicação de ambientes de programação
-|
+
 ├── 03-sintaxe-semantica/                 → Mini-gramática fictícia e análise léxica
-|
+
 ├── 04-tipos-de-dados/                    → Estudo comparativo de sistemas de tipagem
 |
 ├── 05-estruturas-de-controle/            → Exemplos com seleção e repetição
