@@ -8,7 +8,7 @@ Em cada etapa, foram desenvolvidos pequenos programas, reflexões comparativas e
 
 ├── README.md                             → Visão geral do projeto
 
-├── 01-introducao/                        → Linha do tempo da evolução das linguagens
+├── 01-introducao/                        → Linha do tempo da evolução das linguagens\n
 |
 ├── 02-ambientes/                         → Diagrama e explicação de ambientes de programação
 |
