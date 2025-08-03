@@ -1,4 +1,4 @@
-# Linguagens_de_Programacao_UFC
+# Linguagens_de_Programação_UFC
 ## Análise Geral
 O conteúdo deste repositório corresponde a uma investigação prática realizada no contexto da disciplina Fundamentos de Linguagens de Programação (UFC – 2025). Em vez de uma abordagem tradicional de estudo, o projeto foi organizado como uma sequência de 14 experimentos, cada um voltado para um conceito-chave discutido ao longo do semestre (como paradigmas, modelos de execução, sistemas de tipos, regras de escopo etc.).
 
