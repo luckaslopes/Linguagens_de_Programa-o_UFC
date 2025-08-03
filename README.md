@@ -19,7 +19,7 @@ Em cada etapa, foram desenvolvidos pequenos programas, reflexões comparativas e
 ├── 05-estruturas-de-controle/            → Exemplos com seleção e repetição
 
 ├── 06-subprogramas/                      → Funções: passagem por valor vs referência
-|
+
 ├── 07-implementacao-subprogramas/        → Pilha de chamadas em recursão
 
 ├── 08-orientacao-objetos/                → Hierarquia de classes (POO)
